@@ -1,0 +1,62 @@
+a MacBook Pro with 2.7 GHz Dual-Core Intel Core i5 and 8 GB 1867 MHz DDR3 (2015) was used.
+
+I got a database with several people saying the word.
+
+word analyzed: "bed" - a difficult word for the recognizer, because there is similarity with "bad".
+quantity : 495 items
+
+
+PROBLEMS: depending on the pronunciation and intonation,the recognizer makes serious mistakes like:"bad","bat,even "ted"
+but, using recognizer.recognize_google(audio, show_all = True) it is possible to verify all the words that
+the recognizer considered to be, being able to correct this recognition error.
+
+USING GOOGLE RECOGNIZER:
+
+first test:
+runtime: 5.8215179721514385 minutes
+percentage of "WDU" on list: 53.333333333333336 %
+percentage of "bed" on list: 39.595959595959596 %
+
+second test:
+runtime : 5.638539000352224 minutes
+percentage of "WDU" on list :  53.333333333333336 %
+percentage of "bed" on list :  39.5959595959596 %
+
+
+USING SPHINX RECOGNIZER:
+
+first test:
+runtime : 5.83098038037618  minutes
+percentage of "WDU" on list : 88.08080808080808  %
+percentage of "bed" on list : 7.6767676767676765 %
+
+second test:
+runtime : 5.7492130001386  minutes
+percentage of "WDU" on list : 88.08080808080808  %
+percentage of "bed" on list : 7.6767676767676765 %
+
+USING IBM RECOGNIZER:
+first test:
+runtime : 5.855402886867523  minutes
+percentage of "WDU" on list : 88.08080808080808  %
+percentage of "bed" on list : 7.6767676767676765 %
+
+second test :
+runtime : 50.650073663393655  minutes
+percentage of "WDU" on list : 88.08080808080808  %
+percentage of "bed" on list : 7.6767676767676765 %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
