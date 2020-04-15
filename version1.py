@@ -1,14 +1,14 @@
 from os import listdir
 from os.path import isfile, join
-import speech_recognition as sr
 import time
+import speech_recognition as sr
 
 """list comprehension was used in main() because later it would be necessary to use another "for" loop to iterate all 
 names. So, I decided to do everything in the list comprehension. """
 
 
 def main():
-    my_path = "/Users/alexdamascena/Desktop/speech/audios/bed"
+    my_path = "/Users/alexdamascena/Desktop/speech/audios/phrase"
     rec = sr.Recognizer()
     start = time.time()
     all_files_processed = [process_google(file, rec, my_path) for file in listdir(my_path) if
