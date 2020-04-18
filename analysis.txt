@@ -35,16 +35,6 @@ runtime : 5.7492130001386  minutes
 percentage of "WDU" on list : 88.08080808080808  %
 percentage of "bed" on list : 7.6767676767676765 %
 
-USING IBM RECOGNIZER:
-first test:
-runtime : 5.855402886867523  minutes
-percentage of "WDU" on list : 88.08080808080808  %
-percentage of "bed" on list : 7.6767676767676765 %
-
-second test :
-runtime : 50.650073663393655  minutes
-percentage of "WDU" on list : 88.08080808080808  %
-percentage of "bed" on list : 7.6767676767676765 %
 
 
 
