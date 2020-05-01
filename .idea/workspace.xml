@@ -204,6 +204,9 @@
       <workItem from="1586973277690" duration="121000" />
       <workItem from="1586973401785" duration="774000" />
       <workItem from="1587175707569" duration="7522000" />
+      <workItem from="1587750089331" duration="4900000" />
+      <workItem from="1588010880899" duration="4124000" />
+      <workItem from="1588293615075" duration="1883000" />
     </task>
     <servers />
   </component>
@@ -211,30 +214,34 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="250" y="54" key="#Inspections" timestamp="1587753297068">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="250" y="54" key="#Inspections/0.23.1280.732@0.23.1280.732" timestamp="1587753297068" />
     <state x="94" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586183226229">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state x="94" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.732@0.23.1280.732" timestamp="1586183226229" />
-    <state width="1218" height="243" key="GridCell.Tab.0.bottom" timestamp="1587253028391">
+    <state width="1218" height="243" key="GridCell.Tab.0.bottom" timestamp="1588309459921">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1238" height="269" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1586294886101" />
-    <state width="1218" height="243" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1587253028391" />
-    <state width="1218" height="243" key="GridCell.Tab.0.center" timestamp="1587253028391">
+    <state width="1218" height="243" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1588309459921" />
+    <state width="1218" height="243" key="GridCell.Tab.0.center" timestamp="1588309459921">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1238" height="269" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1586294886100" />
-    <state width="1218" height="243" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1587253028391" />
-    <state width="1218" height="243" key="GridCell.Tab.0.left" timestamp="1587253028390">
+    <state width="1218" height="243" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1588309459921" />
+    <state width="1218" height="243" key="GridCell.Tab.0.left" timestamp="1588309459920">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1238" height="269" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1586294886100" />
-    <state width="1218" height="243" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1587253028390" />
-    <state width="1218" height="243" key="GridCell.Tab.0.right" timestamp="1587253028391">
+    <state width="1218" height="243" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1588309459920" />
+    <state width="1218" height="243" key="GridCell.Tab.0.right" timestamp="1588309459921">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1238" height="269" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1586294886101" />
-    <state width="1218" height="243" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1587253028391" />
+    <state width="1218" height="243" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1588309459921" />
     <state width="1218" height="227" key="GridCell.Tab.1.bottom" timestamp="1586324378363">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
@@ -251,10 +258,10 @@
       <screen x="0" y="23" width="1280" height="732" />
     </state>
     <state width="1218" height="227" key="GridCell.Tab.1.right/0.23.1280.732@0.23.1280.732" timestamp="1586324378363" />
-    <state x="317" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1587175708625">
+    <state x="317" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1588293781411">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="317" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1587175708625" />
+    <state x="317" y="221" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1588293781411" />
     <state x="170" y="79" width="670" height="676" key="search.everywhere.popup" timestamp="1587180087868">
       <screen x="0" y="23" width="1280" height="732" />
     </state>
@@ -267,7 +274,7 @@
     <SUITE FILE_PATH="coverage/speech$test.coverage" NAME="test_version1 Coverage Results" MODIFIED="1586324263892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/speech$test_version2.coverage" NAME="test_version2 Coverage Results" MODIFIED="1586286612671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/speech$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1586973279721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/speech$version1.coverage" NAME="version1 Coverage Results" MODIFIED="1587186621589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/speech$version1.coverage" NAME="version1 Coverage Results" MODIFIED="1588295047530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/speech$speech.coverage" NAME="version1 Coverage Results" MODIFIED="1586973968273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/speech$speech_recognition.coverage" NAME="speech Coverage Results" MODIFIED="1586973253599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>

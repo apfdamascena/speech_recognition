@@ -10,7 +10,7 @@ names. So, I decided to do everything in the list comprehension. """
 
 
 def main():
-    my_path = "/Users/alexdamascena/Desktop/speech/audios/phrase"
+    my_path = "/Users/alexdamascena/Desktop/speech/audios/bed"
 
     rec = sr.Recognizer()  # use this only for the process_google and process_sphinx functions
     start = time.time()
@@ -19,6 +19,7 @@ def main():
     end = time.time()
 
     print(all_files_processed)
+    print(accuracy_wit(all_files_processed))
     # print(accuracy(all_files_processed))
     # print(time_min(start, end))
     # print(percentage_word("bed", all_files_processed))
@@ -77,6 +78,14 @@ def accuracy(all_files_processed):
     size = len(all_files_processed)
     quantity_wdn = all_files_processed.count("WDU")
     return 100 - (quantity_wdn * 100) / size
+
+
+def accuracy_wit(all_fßiles_processed):
+    size = len(all_files_processed)
+    qnt = all_files_processed.count("bad")
+    qnt2 = all_files_processed.count("bed")
+    qnt_t = qnt + qnt2
+    return 100 - (qnt_t * 100) / size
 
 
 """this function will help us to compare the time between recognizers, emphasizing efficiency."""
