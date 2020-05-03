@@ -10,7 +10,7 @@ names. So, I decided to do everything in the list comprehension. """
 
 
 def main():
-    my_path = "/Users/alexdamascena/Desktop/speech/audios/bed"
+    my_path = "/Users/alexdamascena/Desktop/speech/audios/phrase"
 
     rec = sr.Recognizer()  # use this only for the process_google and process_sphinx functions
     start = time.time()
@@ -80,7 +80,7 @@ def accuracy(all_files_processed):
     return 100 - (quantity_wdn * 100) / size
 
 
-def accuracy_wit(all_fßiles_processed):
+def accuracy_wit(all_files_processed):
     size = len(all_files_processed)
     qnt = all_files_processed.count("bad")
     qnt2 = all_files_processed.count("bed")
