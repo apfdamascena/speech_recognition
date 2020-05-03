@@ -10,7 +10,7 @@ names. So, I decided to do everything in the list comprehension. """
 
 
 def main():
-    my_path = "/Users/alexdamascena/Desktop/speech/audios/phrase"
+    my_path = "/Users/alexdamascena/Desktop/speech/audios/bed"
 
     rec = sr.Recognizer()  # use this only for the process_google and process_sphinx functions
     start = time.time()
