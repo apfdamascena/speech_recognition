@@ -74,20 +74,3 @@ with github, even from several people -. However, some phrases can contain littl
 For example, the phrases were recognized as ['find a function called ABC',
 'write a function called square with jeremy random but]. the first was totally successful, but the second one
 wasn't.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
